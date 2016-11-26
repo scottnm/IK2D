@@ -1,5 +1,7 @@
 # IK2D
 
+[Latest demo](https://youtu.be/kuFz9OplPNk)
+
 While trying to design a new game project, I realized that I would need some sort of simple IK solver.
 
 This is my take on an IK solver to be used for a simple 2D arm.
